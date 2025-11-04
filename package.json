@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "tp-final-edi",
   "version": "0.0.1",
   "description": "",
@@ -67,5 +68,21 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+=======
+  "name": "tp-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+>>>>>>> f9532c169908237cddf668e570c4246c3e0f6383
   }
 }
