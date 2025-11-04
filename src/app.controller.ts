@@ -10,3 +10,4 @@ export class AppController {
     return this.appService.getHello();
   }
 }
+//Este archivo es el controlador principal. Define una ruta GET en / que llama al servicio y devuelve un mensaje. Solo usa una función llamada getHello().

@@ -90,3 +90,4 @@ export class VeterinariaService {
     return nuevo;
   }
 }
+//Este archivo es el servicio de la veterinaria. Acá está toda la lógica para manejar dueños, mascotas y turnos. Usa json como base de datos. Cada función lee el archivo, modifica los datos si hace falta y los vuelve a guardar.

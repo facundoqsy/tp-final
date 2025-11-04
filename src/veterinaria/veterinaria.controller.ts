@@ -23,3 +23,4 @@ export class VeterinariaController {
   @Get('turnos') listT(){ return this.srv.listTurnos(); }
   @Post('turnos') createT(@Body() b:any){ return this.srv.createTurno(b); }
 }
+//Este archivo es el controlador de la API en NestJS. Define las rutas (endpoints) que se pueden usar para manejar dueños, mascotas y turnos. Cada método llama a una función del servicio (VeterinariaService) que hace la lógica real.

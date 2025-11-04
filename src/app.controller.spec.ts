@@ -20,3 +20,4 @@ describe('AppController', () => {
     });
   });
 });
+//Este archivo es un test de NestJS. es para probar que el AppController funciona bien. Crea un módulo de prueba, consigue el controlador y verifica que la función getHello() devuelva "Hello World!".
